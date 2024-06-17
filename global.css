@@ -1,0 +1,9 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+#mapDetail{
+    height: 300px;
+    background-color: #ccc;
+}
